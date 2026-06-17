@@ -27,7 +27,7 @@ const char* OPENSKY_TOKEN_URL =
   "https://auth.opensky-network.org/auth/realms/opensky-network/protocol/openid-connect/token";
 
 const char* OPENSKY_URL =
-  "https://opensky-network.org/api/states/all?lamin=45.72&lomin=13.23&lamax=45.79&lomax=13.47";
+  "https://opensky-network.org/api/states/all?lamin=X&lomin=Y&lamax=X2&lomax=Y2";
 
 const float CENTER_LAT = (45.72f + 45.79f) / 2.0f;
 const float CENTER_LON = (13.23f + 13.47f) / 2.0f;
