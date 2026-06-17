@@ -1,4 +1,6 @@
 # EasyFlightWall
+I've created this cuz my gf asked me to.
+
 This project is a DIY Flight Display Panel, inspired by the original FlightWall concept created by aarenstade and _alex_cronin.
 
 <img width="384" height="512" alt="1" src="https://github.com/user-attachments/assets/5c9a85e2-3e01-46bd-8801-3c68057ba45d" />
