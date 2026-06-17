@@ -55,6 +55,12 @@ const char* OPENSKY_CLIENT_SECRET = "YOUR_OPENSKY_CLIENT_SECRET";
 
 ```
 
+# Configure position
+
+Edit this line:
+```
+"https://opensky-network.org/api/states/all?lamin=X&lomin=Y&lamax=X2&lomax=Y2"
+```
 
 # How it works
 Step 1 – OpenSky
