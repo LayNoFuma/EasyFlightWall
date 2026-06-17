@@ -40,12 +40,18 @@ Generate an API key
 
 # Configure credentials
 Edit main.cpp:
-
+```
 const char* WIFI_SSID     = "YOUR_WIFI_SSID";
+
 const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
+
 const char* FLIGHTAWARE_API_KEY = "YOUR_FLIGHTAWARE_API_KEY";
+
 const char* OPENSKY_CLIENT_ID     = "YOUR_OPENSKY_CLIENT_ID";
+
 const char* OPENSKY_CLIENT_SECRET = "YOUR_OPENSKY_CLIENT_SECRET";
+
+```
 
 
 # How it works
