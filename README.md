@@ -23,7 +23,7 @@ Aircraft type
 Animated UI elements
 Standby clock & sleep mode
 
-# Asseble
+# Assemble
 Connect the ESP32 using mortaca adapter to the panel, then, connect the wires for 5v+ and GND to the adapter
 
 # API Configuration
