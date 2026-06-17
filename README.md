@@ -2,8 +2,8 @@
 This project is a DIY Flight Display Panel, inspired by the original FlightWall concept created by aviation enthusiasts and makers who combine real-time flight 
 data with LED matrix displays.
 
-<img width="1536" height="2048" alt="1" src="https://github.com/user-attachments/assets/5c9a85e2-3e01-46bd-8801-3c68057ba45d" />
-<img width="1536" height="2048" alt="2" src="https://github.com/user-attachments/assets/dadf5069-a90c-4a62-b381-6780b40c1f75" />
+<img width="768" height="1024" alt="1" src="https://github.com/user-attachments/assets/5c9a85e2-3e01-46bd-8801-3c68057ba45d" />
+<img width="768" height="1024" alt="2" src="https://github.com/user-attachments/assets/dadf5069-a90c-4a62-b381-6780b40c1f75" />
 
 
 The goal is to recreate a compact version of a real airport-style display using:
