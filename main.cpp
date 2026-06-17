@@ -103,7 +103,7 @@ const unsigned long ARROW_ANIM_INTERVAL_MS = 180;
 
 // Keep last valid flight on screen for a while
 unsigned long lastFlightSeenMs = 0;
-const unsigned long HOLD_FLIGHT_MS = 15000;
+const unsigned long HOLD_FLIGHT_MS = 25000;
 
 // Lightweight redraw timers
 unsigned long lastDisplayUpdate = 0;
