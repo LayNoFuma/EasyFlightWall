@@ -27,7 +27,8 @@ Standby clock & sleep mode
 
 # Assemble
 Connect the ESP32 using mortaca adapter to the panel, then, connect the wires for 5v+ and GND to the adapter
-<img width="533" height="405" alt="4" src="https://github.com/user-attachments/assets/c42de45e-a191-477d-8c31-4133e470d767" />
+
+<img width="400" height="304" alt="4" src="https://github.com/user-attachments/assets/c42de45e-a191-477d-8c31-4133e470d767" />
 
 # API Configuration
 OpenSky (Required)
